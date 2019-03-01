@@ -1,0 +1,11 @@
+C:\Users\ksarama\Documents\Projects\Wojtek\bin\Debug\netcoreapp2.2\Wojtek.deps.json
+C:\Users\ksarama\Documents\Projects\Wojtek\bin\Debug\netcoreapp2.2\Wojtek.runtimeconfig.json
+C:\Users\ksarama\Documents\Projects\Wojtek\bin\Debug\netcoreapp2.2\Wojtek.runtimeconfig.dev.json
+C:\Users\ksarama\Documents\Projects\Wojtek\bin\Debug\netcoreapp2.2\Wojtek.dll
+C:\Users\ksarama\Documents\Projects\Wojtek\bin\Debug\netcoreapp2.2\Wojtek.pdb
+C:\Users\ksarama\Documents\Projects\Wojtek\obj\Debug\netcoreapp2.2\Wojtek.csprojAssemblyReference.cache
+C:\Users\ksarama\Documents\Projects\Wojtek\obj\Debug\netcoreapp2.2\Wojtek.csproj.CoreCompileInputs.cache
+C:\Users\ksarama\Documents\Projects\Wojtek\obj\Debug\netcoreapp2.2\Wojtek.AssemblyInfoInputs.cache
+C:\Users\ksarama\Documents\Projects\Wojtek\obj\Debug\netcoreapp2.2\Wojtek.AssemblyInfo.cs
+C:\Users\ksarama\Documents\Projects\Wojtek\obj\Debug\netcoreapp2.2\Wojtek.dll
+C:\Users\ksarama\Documents\Projects\Wojtek\obj\Debug\netcoreapp2.2\Wojtek.pdb
